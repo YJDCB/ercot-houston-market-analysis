@@ -1,0 +1,5 @@
+table,rows,first_timestamp,last_timestamp,duplicate_local_timestamps
+prices,50442,2021-01-01,2026-10-03 23:00:00,0
+load,49649,2021-01-01,2026-08-31 23:00:00,0
+generation,48162,2021-01-01,2026-06-30 23:00:00,0
+market_hourly,48161,2021-01-01,2026-06-30 23:00:00,0
